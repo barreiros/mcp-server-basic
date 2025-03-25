@@ -1,3 +1,11 @@
+# Purpose
+
+- The goal of this project is to build an MCP server that records the developer's or user's voice and passes it to the code assistant. It is a basic speech-to-text tool.
+
 # Very Important
 
 - You should only return code and avoid explaining yourself. Be as concise as possible and avoid verbosity.
+
+# Stack
+
+- NodeJS using ES6 modules
